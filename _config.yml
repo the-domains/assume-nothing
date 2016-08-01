@@ -1,0 +1,14 @@
+layout_spectrum: 0.35413389769382775
+typography_spectrum: 0.9838176723569632
+color:
+  brandStrength: 0.19938148907385767
+  lightness: 0.9358910913579166
+  saturation: 0.017561331391334534
+  rhythmicContrast: 0.6408501213882118
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: assume nothing
