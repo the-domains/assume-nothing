@@ -1,4 +1,3 @@
-layout_spectrum: 0.35413389769382775
 typography_spectrum: 0.9838176723569632
 color:
   brandStrength: 0.19938148907385767
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.35413389769382775
 name: assume nothing
 title: assume nothing
+description: and it can only get better
